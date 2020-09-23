@@ -28,9 +28,9 @@ def getVersion():
 
 def dereRPG():
 	global versionUrl
-	versionUrl = 'https://raw.githubusercontent.com/PG-MASTER/Dere-RPG/master/Version.txt'
-	Main_py = 'https://raw.githubusercontent.com/PG-MASTER/Dere-RPG/master/Main.py'
-	Engine_py = 'https://raw.githubusercontent.com/PG-MASTER/Dere-RPG/master/Data/Engine.py'
+	versionUrl = 'https://raw.githubusercontent.com/VoidTsundere/DereRPG/master/DereRPG/Version.txt'
+	Main_py = 'https://raw.githubusercontent.com/VoidTsundere/DereRPG/master/DereRPG/Main.py'
+	Engine_py = 'https://raw.githubusercontent.com/VoidTsundere/DereRPG/master/DereRPG/Data/Engine.py'
 	print('a')
 
 
